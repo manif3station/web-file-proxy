@@ -1,0 +1,2 @@
+requires 'File::Type';
+requires 'HTTP::API::Client';
