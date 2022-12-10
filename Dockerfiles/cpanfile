@@ -1,0 +1,2 @@
+requires 'File::MimeInfo::Magic';
+requires 'HTTP::API::Client';
